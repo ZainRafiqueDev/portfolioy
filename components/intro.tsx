@@ -276,7 +276,7 @@ export default function Intro() {
           >
             <a
               className="group relative overflow-hidden px-8 py-4 flex items-center gap-2 bg-white dark:bg-gray-800 text-gray-800 dark:text-white rounded-full shadow-lg border border-gray-200 dark:border-gray-700"
-              href="/CV.pdf"
+              href="/#"
               download
             >
               <span className="absolute inset-0 w-full h-full bg-gradient-to-r from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
