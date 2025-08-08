@@ -93,7 +93,7 @@ export default function Home() {
             transition={{ duration: 0.3 }}
             className="w-full h-screen"
           >
-            <Terminal />
+            
           </motion.div>
         ) : (
           <motion.div
